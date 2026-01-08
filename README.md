@@ -2,7 +2,7 @@
 
 Thank u for giving me this opportunity, I have built a simplified trading platform SDK and REST API simulation built for a campus hiring assignment. The project demonstrates backend system design, clean RESTful API development, and core trading workflows such as instrument discovery, order placement, order status tracking, trade execution, and portfolio management using in-memory data storage.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -18,19 +18,19 @@ Thank u for giving me this opportunity, I have built a simplified trading platfo
 - [Contributing](#contributing)
 - [License](#license)
 
-## 📸 Screenshots
+##  PFD
 
 <div align="center">
   <img src="images/screenshot-1.jpeg" alt="Application Screenshot 1" width="800" />
-  <p><em>Screenshot 1: Trading Platform Dashboard</em></p>
+  <p><em> Trading Platform Dashboard</em></p>
 </div>
 
 <div align="center">
   <img src="images/screenshot-2.jpeg" alt="Application Screenshot 2" width="800" />
-  <p><em>Screenshot 2: Trading Platform Interface</em></p>
+  <p><em> Trading Platform Interface</em></p>
 </div>
 
-## ✨ Features
+##  Features
 
 ### Backend Features
 - **Instrument Management**: Discover and query available trading instruments with real-time market data
